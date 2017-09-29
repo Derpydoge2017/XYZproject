@@ -1,0 +1,7 @@
+#Thu Sep 28 17:36:10 ICT 2017
+base.0=C\:\\Users\\thanh\\Downloads\\xyz_code\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f58289a9d2e13f940d097deb5a9704b556ddde24
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\thanh\\Downloads\\xyz_code\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e1566dd337bc40b0fe3e7a501733fcdef9f2f6d8\\classes.dex
+base.1=C\:\\Users\\thanh\\Downloads\\xyz_code\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e1566dd337bc40b0fe3e7a501733fcdef9f2f6d8
+file.0=C\:\\Users\\thanh\\Downloads\\xyz_code\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f58289a9d2e13f940d097deb5a9704b556ddde24\\classes.dex
